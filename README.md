@@ -19,9 +19,9 @@
 
 
 ## 📂 Portfolio:
-1. **Landing Page "Project Name 1"**  
-   - [Демо](https://example1.vercel.app)  
-   - [Код](https://github.com/твойник/landing-portfolio-1)  
+1. **Landing Page "Bakery"**  
+   - [DEMO_LINK]([https://example1.vercel.app](https://nadiiabulmak.github.io/Bakery_landing_project/))  
+   - [CODE]([https://github.com/твойник/landing-portfolio-1](https://github.com/NadiiaBulmak/Bakery_landing_project))  
 
 2. **Landing Page "Project Name 2"**  
    - [Демо](https://example2.vercel.app)  
