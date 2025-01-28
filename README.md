@@ -19,13 +19,14 @@
 
 
 ## 📂 Portfolio:
-1. **Landing Page "Bakery"**  
+1. **Landing Page "Bakery"**
    - [DEMO_LINK](https://nadiiabulmak.github.io/Bakery_landing_project/)  
-   - [CODE](https://github.com/NadiiaBulmak/Bakery_landing_project) 
+   - [CODE & ABOUT](https://github.com/NadiiaBulmak/Bakery_landing_project) 
 
-2. **Landing Page "Bakery"**  
-   - [DEMO_LINK](https://nadiiabulmak.github.io/Bakery_landing_project/)  
-   - [CODE](https://github.com/NadiiaBulmak/Bakery_landing_project) 
+2. **Landing Page for Tech Company** 
+   - [DEMO_LINK](https://nadiiabulmak.github.io/Landing_for_Tech_Company/)
+   - [CODE & ABOUT](https://github.com/NadiiaBulmak/Landing_for_Tech_Company)
+   
   
 ### 📫 Contact Me:
 - Email: nbulmak@gmail.com 
