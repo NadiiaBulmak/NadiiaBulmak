@@ -28,9 +28,9 @@
    - [Код](https://github.com/твойник/landing-portfolio-2)
   
 ### 📫 Contact Me:
-- Email: твойemail@example.com  
-- Telegram: [@твойник](https://t.me/твойник)  
-- LinkedIn: [Твой профиль](https://linkedin.com/in/твойпрофиль)
+- Email: nbulmak@gmail.com 
+- Telegram: [Nadiia Bulmak](https://t.me/bulmak_nadiia)  
+- LinkedIn: [Nadiia Bulmak](www.linkedin.com/in/nadiiabulmak)
 
 <!--
 **NadiiaBulmak/NadiiaBulmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
