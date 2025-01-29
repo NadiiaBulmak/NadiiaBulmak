@@ -19,11 +19,15 @@
 
 
 ## 📂 Portfolio:
-1. **Landing Page "Bakery"**
+1. **To-Do List Web Application**
+   - [DEMO_LINK](https://nadiiabulmak.github.io/js_to_do_list_new/)  
+   - [CODE & ABOUT](https://github.com/NadiiaBulmak/js_to_do_list_new)
+   
+2. **Landing Page "Bakery"**
    - [DEMO_LINK](https://nadiiabulmak.github.io/Bakery_landing_project/)  
    - [CODE & ABOUT](https://github.com/NadiiaBulmak/Bakery_landing_project) 
 
-2. **Landing Page for Tech Company** 
+3. **Landing Page for Tech Company** 
    - [DEMO_LINK](https://nadiiabulmak.github.io/Landing_for_Tech_Company/)
    - [CODE & ABOUT](https://github.com/NadiiaBulmak/Landing_for_Tech_Company)
    
