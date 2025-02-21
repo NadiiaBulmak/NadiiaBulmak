@@ -17,20 +17,78 @@
 ![Figma](https://img.shields.io/badge/Figma-Design%20Tool-blueviolet?style=for-the-badge&logo=figma&logoColor=white)
 
 
+<div align="left">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h2>📌 To-Do List Web Application</h2>
+        <p>A simple and user-friendly web application for managing tasks.</p>
+        <p>✔ Add, complete, and delete tasks.</p>
+        <a href="https://nadiiabulmak.github.io/js_to_do_list_new/" class="project-link">🔗 Live Demo</a> |
+        <a href="https://github.com/NadiiaBulmak/js_to_do_list_new" class="project-link">📜 Code & About</a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🚀 Features</h3>
+        <ul>
+          <li><strong>✅ Add/Remove Tasks</strong> - Manage tasks easily.</li>
+          <li><strong>📝 Local Storage</strong> - Data persists after refresh.</li>
+          <li><strong>🎨 Modern UI</strong> - Clean and minimal design.</li>
+          <li><strong>🌈 Gradient Background</strong> - Smooth UX.</li>
+          <li><strong>📱 Responsive Design</strong> - Works on all devices.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 📂 Portfolio:
-1. **To-Do List Web Application**
-   - [DEMO_LINK](https://nadiiabulmak.github.io/js_to_do_list_new/)  
-   - [CODE & ABOUT](https://github.com/NadiiaBulmak/js_to_do_list_new)
-   
-2. **Landing Page "Bakery"**
-   - [DEMO_LINK](https://nadiiabulmak.github.io/Bakery_landing_project/)  
-   - [CODE & ABOUT](https://github.com/NadiiaBulmak/Bakery_landing_project) 
+<div align="left">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h2>🍞 Bakery Landing Page</h2>
+        <p>A stylish and modern landing page for a bakery business.</p>
+        <p>✔ Showcases bakery products and services.</p>
+        <a href="https://nadiiabulmak.github.io/Bakery_landing_project/" class="project-link">🔗 Live Demo</a> |
+        <a href="https://github.com/NadiiaBulmak/Bakery_landing_project" class="project-link">📜 Code & About</a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🚀 Features</h3>
+        <ul>
+          <li><strong>🎨 Elegant UI</strong> - Clean and visually appealing design.</li>
+          <li><strong>📸 High-Quality Images</strong> - Showcases delicious bakery products.</li>
+          <li><strong>📝 Well-Structured Content</strong> - Engaging and informative sections.</li>
+          <li><strong>⚡ Smooth Animations</strong> - Enhances user experience.</li>
+          <li><strong>📱 Fully Responsive</strong> - Optimized for all devices.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-3. **Landing Page for Tech Company** 
-   - [DEMO_LINK](https://nadiiabulmak.github.io/Landing_for_Tech_Company/)
-   - [CODE & ABOUT](https://github.com/NadiiaBulmak/Landing_for_Tech_Company)
-   
+<div align="left">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h2>💻 Tech Company Landing Page</h2>
+        <p>A modern and sleek landing page designed for a tech company.</p>
+        <p>✔ Presents company services and benefits.</p>
+        <a href="https://nadiiabulmak.github.io/Landing_for_Tech_Company/" class="project-link">🔗 Live Demo</a> |
+        <a href="https://github.com/NadiiaBulmak/Landing_for_Tech_Company" class="project-link">📜 Code & About</a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🚀 Features</h3>
+        <ul>
+          <li><strong>💡 Professional Design</strong> - Clean and corporate look.</li>
+          <li><strong>📊 Service Overview</strong> - Highlights key offerings.</li>
+          <li><strong>🎯 Call-to-Action</strong> - Encourages user engagement.</li>
+          <li><strong>⚡ Interactive Elements</strong> - Smooth animations and effects.</li>
+          <li><strong>📱 Fully Responsive</strong> - Works on all screen sizes.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
   
 ### 📫 Contact Me:
 - Email: nbulmak@gmail.com 
