@@ -16,18 +16,19 @@
 ![BEM](https://img.shields.io/badge/BEM-CSS%20Methodology-green?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-Design%20Tool-blueviolet?style=for-the-badge&logo=figma&logoColor=white)
 
+# Projects Portfolio
 
 <div align="left">
-  <table width="100%">
+  <table width="80%">
     <tr>
-      <td width="50%" valign="top">
+      <td width="40%" valign="top">
         <h2>📌 To-Do List Web Application</h2>
         <p>A simple and user-friendly web application for managing tasks.</p>
         <p>✔ Add, complete, and delete tasks.</p>
         <a href="https://nadiiabulmak.github.io/js_to_do_list_new/" class="project-link">🔗 Live Demo</a> |
         <a href="https://github.com/NadiiaBulmak/js_to_do_list_new" class="project-link">📜 Code & About</a>
       </td>
-      <td width="50%" valign="top">
+      <td width="40%" valign="top">
         <h3>🚀 Features</h3>
         <ul>
           <li><strong>✅ Add/Remove Tasks</strong> - Manage tasks easily.</li>
@@ -42,9 +43,9 @@
 </div>
 
 <div align="left">
-  <table width="100%">
+  <table width = "80%">
     <tr>
-      <td width="50%" valign="top">
+      <td width="40%" valign="top">
         <h2>👥 Employees Table</h2>
         <p>A dynamic table that allows users to manage employee data, including sorting, adding, and editing. Features notifications for feedback and form validation.</p>
         <p>✔ Allows users to add and edit employee details.</p>
@@ -53,7 +54,7 @@
         <a href="https://yourgithubpage.com/employees-table" class="project-link">🔗 Live Demo</a> |
         <a href="https://github.com/yourusername/employees-table" class="project-link">📜 Code & About</a>
       </td>
-      <td width="50%" valign="top">
+      <td width="40%" valign="top">
         <h3>🚀 Features</h3>
         <ul>
           <li><strong>📊 Sortable Table</strong> - Click headers to sort employee data by name, position, office, etc.</li>
@@ -68,9 +69,9 @@
 </div>
 
 <div align="left">
-  <table width="100%">
+  <table width="80%">
     <tr>
-      <td width="50%" valign="top">
+      <td width="40%" valign="top">
         <h2>🖼️ Lightbox Viewer</h2>
         <p>A gallery lightbox project that enables users to view images in fullscreen with smooth transitions and a responsive design.</p>
         <p>✔ Open images in a fullscreen lightbox with a darkened background.</p>
@@ -79,7 +80,7 @@
         <a href="https://nadiiabulmak.github.io/js_build_a_lightbox_viewer/" class="project-link">🔗 Live Demo</a> |
         <a href="https://github.com/NadiiaBulmak/js_build_a_lightbox_viewer" class="project-link">📜 Code & About</a>
       </td>
-      <td width="50%" valign="top">
+      <td width="40%" valign="top">
         <h3>🚀 Features</h3>
         <ul>
           <li><strong>🔲 Lightbox View</strong> - Images open in an enlarged view with a smooth transition.</li>
@@ -93,16 +94,16 @@
 </div>
 
 <div align="left">
-  <table width="100%">
+  <table width="80%">
     <tr>
-      <td width="50%" valign="top">
+      <td width="40%" valign="top">
         <h2>🍞 Bakery Landing Page</h2>
         <p>A stylish and modern landing page for a bakery business.</p>
         <p>✔ Showcases bakery products and services.</p>
         <a href="https://nadiiabulmak.github.io/Bakery_landing_project/" class="project-link">🔗 Live Demo</a> |
         <a href="https://github.com/NadiiaBulmak/Bakery_landing_project" class="project-link">📜 Code & About</a>
       </td>
-      <td width="50%" valign="top">
+      <td width="40%" valign="top">
         <h3>🚀 Features</h3>
         <ul>
           <li><strong>🎨 Elegant UI</strong> - Clean and visually appealing design.</li>
@@ -117,16 +118,16 @@
 </div>
 
 <div align="left">
-  <table width="100%">
+  <table width="80%">
     <tr>
-      <td width="50%" valign="top">
+      <td width="40%" valign="top">
         <h2>💻 Tech Company Landing Page</h2>
         <p>A modern and sleek landing page designed for a tech company.</p>
         <p>✔ Presents company services and benefits.</p>
         <a href="https://nadiiabulmak.github.io/Landing_for_Tech_Company/" class="project-link">🔗 Live Demo</a> |
         <a href="https://github.com/NadiiaBulmak/Landing_for_Tech_Company" class="project-link">📜 Code & About</a>
       </td>
-      <td width="50%" valign="top">
+      <td width="40%" valign="top">
         <h3>🚀 Features</h3>
         <ul>
           <li><strong>💡 Professional Design</strong> - Clean and corporate look.</li>
