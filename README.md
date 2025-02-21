@@ -45,6 +45,33 @@
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
+        <h2>👥 Employees Table</h2>
+        <p>A dynamic table that allows users to manage employee data, including sorting, adding, and editing. Features notifications for feedback and form validation.</p>
+        <p>✔ Allows users to add and edit employee details.</p>
+        <p>✔ Interactive table with sortable columns.</p>
+        <p>✔ Responsive design for different screen sizes.</p>
+        <a href="https://yourgithubpage.com/employees-table" class="project-link">🔗 Live Demo</a> |
+        <a href="https://github.com/yourusername/employees-table" class="project-link">📜 Code & About</a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🚀 Features</h3>
+        <ul>
+          <li><strong>📊 Sortable Table</strong> - Click headers to sort employee data by name, position, office, etc.</li>
+          <li><strong>📝 Add New Employees</strong> - Form with input validation to add new employees.</li>
+          <li><strong>✏️ Edit Table Cells</strong> - Double-click to edit employee details in the table.</li>
+          <li><strong>📱 Responsive Design</strong> - Works well on desktops, tablets, and mobile devices.</li>
+          <li><strong>⚠️ Notification System</strong> - Provides success, error, and warning notifications after user actions.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<div align="left">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
         <h2>🍞 Bakery Landing Page</h2>
         <p>A stylish and modern landing page for a bakery business.</p>
         <p>✔ Showcases bakery products and services.</p>
