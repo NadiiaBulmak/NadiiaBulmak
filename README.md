@@ -1,11 +1,11 @@
-## Hi there! I'm Nadia 👋
-✨ Fullstack Developer in training at Mate Academy.<br>
-⚡ Passionate about mastering JavaScript, HTML/CSS, and building responsive projects.
+# Hi there! I'm Nadia 👋  
 
-🤩 Dedicated to landing a job and contributing to an amazing team.<br>
-🌱 I’m currently learning DOM, Events, Promises
+✨ **Fullstack Developer in training at Mate Academy.**  
+⚡ Passionate about mastering JavaScript, HTML/CSS, and building responsive projects.  
+🤩 Dedicated to landing a job and contributing to an amazing team.  
+🌱 Currently learning **DOM, Events, and Promises**.  
 
-## 🛠️ Skills:
+## 🛠️ Skills  
 
 ![HTML](https://img.shields.io/badge/HTML-Flexbox%2C%20Grid-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-Adaptive%20Design%2C%20Animation%2C%20Transformation-blue?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,132 +16,66 @@
 ![BEM](https://img.shields.io/badge/BEM-CSS%20Methodology-green?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-Design%20Tool-blueviolet?style=for-the-badge&logo=figma&logoColor=white)
 
-# Projects Portfolio
 
-<div align="left">
-  <table width="80%">
-    <tr>
-      <td width="40%" valign="top">
-        <h2>📌 To-Do List Web Application</h2>
-        <p>A simple and user-friendly web application for managing tasks.</p>
-        <p>✔ Add, complete, and delete tasks.</p>
-        <a href="https://nadiiabulmak.github.io/js_to_do_list_new/" class="project-link">🔗 Live Demo</a> |
-        <a href="https://github.com/NadiiaBulmak/js_to_do_list_new" class="project-link">📜 Code & About</a>
-      </td>
-      <td width="40%" valign="top">
-        <h3>🚀 Features</h3>
-        <ul>
-          <li><strong>✅ Add/Remove Tasks</strong> - Manage tasks easily.</li>
-          <li><strong>📝 Local Storage</strong> - Data persists after refresh.</li>
-          <li><strong>🎨 Modern UI</strong> - Clean and minimal design.</li>
-          <li><strong>🌈 Gradient Background</strong> - Smooth UX.</li>
-          <li><strong>📱 Responsive Design</strong> - Works on all devices.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+## 🚀 Projects Portfolio  
 
-<div align="left">
-  <table width = "80%">
-    <tr>
-      <td width="40%" valign="top">
-        <h2>👥 Employees Table</h2>
-        <p>A dynamic table that allows users to manage employee data, including sorting, adding, and editing. Features notifications for feedback and form validation.</p>
-        <p>✔ Allows users to add and edit employee details.</p>
-        <p>✔ Interactive table with sortable columns.</p>
-        <p>✔ Responsive design for different screen sizes.</p>
-        <a href="https://yourgithubpage.com/employees-table" class="project-link">🔗 Live Demo</a> |
-        <a href="https://github.com/yourusername/employees-table" class="project-link">📜 Code & About</a>
-      </td>
-      <td width="40%" valign="top">
-        <h3>🚀 Features</h3>
-        <ul>
-          <li><strong>📊 Sortable Table</strong> - Click headers to sort employee data by name, position, office, etc.</li>
-          <li><strong>📝 Add New Employees</strong> - Form with input validation to add new employees.</li>
-          <li><strong>✏️ Edit Table Cells</strong> - Double-click to edit employee details in the table.</li>
-          <li><strong>📱 Responsive Design</strong> - Works well on desktops, tablets, and mobile devices.</li>
-          <li><strong>⚠️ Notification System</strong> - Provides success, error, and warning notifications after user actions.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+### 📌 To-Do List Web Application  
+A simple and user-friendly web application for managing tasks.  
 
-<div align="left">
-  <table width="80%">
-    <tr>
-      <td width="40%" valign="top">
-        <h2>🖼️ Lightbox Viewer</h2>
-        <p>A gallery lightbox project that enables users to view images in fullscreen with smooth transitions and a responsive design.</p>
-        <p>✔ Open images in a fullscreen lightbox with a darkened background.</p>
-        <p>✔ Navigate between images and close the viewer easily.</p>
-        <p>✔ Works seamlessly across devices with responsive design.</p>
-        <a href="https://nadiiabulmak.github.io/js_build_a_lightbox_viewer/" class="project-link">🔗 Live Demo</a> |
-        <a href="https://github.com/NadiiaBulmak/js_build_a_lightbox_viewer" class="project-link">📜 Code & About</a>
-      </td>
-      <td width="40%" valign="top">
-        <h3>🚀 Features</h3>
-        <ul>
-          <li><strong>🔲 Lightbox View</strong> - Images open in an enlarged view with a smooth transition.</li>
-          <li><strong>❌ Close Button</strong> - Close the lightbox by clicking the close button or the background.</li>
-          <li><strong>📱 Responsive</strong> - The gallery adapts to various screen sizes.</li>
-          <li><strong>✨ Smooth Animations</strong> - Images smoothly fade in and out during transitions.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+🔹 **Features:**  
+✔ Add, complete, and delete tasks  
+✔ Data persistence with **Local Storage**  
+✔ Modern and clean UI  
+✔ Responsive design for all devices  
 
-<div align="left">
-  <table width="80%">
-    <tr>
-      <td width="40%" valign="top">
-        <h2>🍞 Bakery Landing Page</h2>
-        <p>A stylish and modern landing page for a bakery business.</p>
-        <p>✔ Showcases bakery products and services.</p>
-        <a href="https://nadiiabulmak.github.io/Bakery_landing_project/" class="project-link">🔗 Live Demo</a> |
-        <a href="https://github.com/NadiiaBulmak/Bakery_landing_project" class="project-link">📜 Code & About</a>
-      </td>
-      <td width="40%" valign="top">
-        <h3>🚀 Features</h3>
-        <ul>
-          <li><strong>🎨 Elegant UI</strong> - Clean and visually appealing design.</li>
-          <li><strong>📸 High-Quality Images</strong> - Showcases delicious bakery products.</li>
-          <li><strong>📝 Well-Structured Content</strong> - Engaging and informative sections.</li>
-          <li><strong>⚡ Smooth Animations</strong> - Enhances user experience.</li>
-          <li><strong>📱 Fully Responsive</strong> - Optimized for all devices.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+🔗 [Live Demo](https://nadiiabulmak.github.io/js_to_do_list_new/) | 📝 [Code & About](https://github.com/NadiiaBulmak/js_to_do_list_new)   
 
-<div align="left">
-  <table width="80%">
-    <tr>
-      <td width="40%" valign="top">
-        <h2>💻 Tech Company Landing Page</h2>
-        <p>A modern and sleek landing page designed for a tech company.</p>
-        <p>✔ Presents company services and benefits.</p>
-        <a href="https://nadiiabulmak.github.io/Landing_for_Tech_Company/" class="project-link">🔗 Live Demo</a> |
-        <a href="https://github.com/NadiiaBulmak/Landing_for_Tech_Company" class="project-link">📜 Code & About</a>
-      </td>
-      <td width="40%" valign="top">
-        <h3>🚀 Features</h3>
-        <ul>
-          <li><strong>💡 Professional Design</strong> - Clean and corporate look.</li>
-          <li><strong>📊 Service Overview</strong> - Highlights key offerings.</li>
-          <li><strong>🎯 Call-to-Action</strong> - Encourages user engagement.</li>
-          <li><strong>⚡ Interactive Elements</strong> - Smooth animations and effects.</li>
-          <li><strong>📱 Fully Responsive</strong> - Works on all screen sizes.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+### 👥 Employees Table  
+A dynamic table that allows users to **sort, add, and edit employee data** with form validation and notification feedback.  
+
+🔹 **Features:**  
+✔ Sortable columns – Click headers to sort data  
+✔ Form validation for adding new employees  
+✔ Inline editing of table cells  
+✔ Notification system for user actions  
+✔ Fully responsive design  
+
+🔗 [Live Demo](https://nadiiabulmak.github.io/js_table_app/) | 📝 [Code & About](https://github.com/NadiiaBulmak/js_table_app)  
+
+### 🗆️ Lightbox Viewer  
+A gallery project that enables users to **view images in fullscreen** with smooth transitions.  
+
+🔹 **Features:**  
+✔ Lightbox view with a darkened background  
+✔ Smooth animations for transitions  
+✔ Responsive design for different devices  
+
+🔗 [Live Demo](https://nadiiabulmak.github.io/js_build_a_lightbox_viewer/) | 📝 [Code & About](https://github.com/NadiiaBulmak/js_build_a_lightbox_viewer)  
+
+### 🍞 Bakery Landing Page  
+A stylish and modern landing page for a **bakery business**.  
+
+🔹 **Features:**  
+✔ High-quality images showcasing bakery products  
+✔ Smooth animations and transitions  
+✔ Well-structured and engaging content  
+✔ Fully responsive layout  
+
+🔗 [Live Demo](https://nadiiabulmak.github.io/Bakery_landing_project/) | 📝 [Code & About](https://github.com/NadiiaBulmak/Bakery_landing_project)  
 
 
+### 💻 Tech Company Landing Page  
+A **modern and sleek landing page** designed for a tech company.  
+
+🔹 **Features:**  
+✔ Professional, clean, and corporate design  
+✔ Service overview with key offerings  
+✔ Interactive elements and smooth animations  
+✔ Fully responsive layout  
+
+🔗 [Live Demo](https://nadiiabulmak.github.io/Landing_for_Tech_Company/) | 📝 [Code & About](https://github.com/NadiiaBulmak/Landing_for_Tech_Company)  
+
+---
   
 ### 📫 Contact Me:
 - Email: nbulmak@gmail.com 
