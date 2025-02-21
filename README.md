@@ -67,6 +67,30 @@
   </table>
 </div>
 
+<div align="left">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h2>🖼️ Lightbox Viewer</h2>
+        <p>A gallery lightbox project that enables users to view images in fullscreen with smooth transitions and a responsive design.</p>
+        <p>✔ Open images in a fullscreen lightbox with a darkened background.</p>
+        <p>✔ Navigate between images and close the viewer easily.</p>
+        <p>✔ Works seamlessly across devices with responsive design.</p>
+        <a href="https://nadiiabulmak.github.io/js_build_a_lightbox_viewer/" class="project-link">🔗 Live Demo</a> |
+        <a href="https://github.com/NadiiaBulmak/js_build_a_lightbox_viewer" class="project-link">📜 Code & About</a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🚀 Features</h3>
+        <ul>
+          <li><strong>🔲 Lightbox View</strong> - Images open in an enlarged view with a smooth transition.</li>
+          <li><strong>❌ Close Button</strong> - Close the lightbox by clicking the close button or the background.</li>
+          <li><strong>📱 Responsive</strong> - The gallery adapts to various screen sizes.</li>
+          <li><strong>✨ Smooth Animations</strong> - Images smoothly fade in and out during transitions.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="left">
   <table width="100%">
@@ -115,6 +139,7 @@
     </tr>
   </table>
 </div>
+
 
   
 ### 📫 Contact Me:
