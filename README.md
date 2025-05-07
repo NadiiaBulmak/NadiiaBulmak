@@ -10,25 +10,42 @@
 ![HTML](https://img.shields.io/badge/HTML-Flexbox%2C%20Grid-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-Adaptive%20Design%2C%20Animation%2C%20Transformation-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B%2C%20DOM-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Type%20Safety%2C%20Interfaces-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-Components%2C%20Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Sass](https://img.shields.io/badge/Sass-CSS%20Preprocessor-pink?style=for-the-badge&logo=sass&logoColor=white)
 ![BEM](https://img.shields.io/badge/BEM-CSS%20Methodology-green?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-Design%20Tool-blueviolet?style=for-the-badge&logo=figma&logoColor=white)
-
 
 ## 🚀 Projects Portfolio  
 
-### 📌 To-Do List Web Application  
-A simple and user-friendly web application for managing tasks.  
+### ✅ React ToDo App with API
+A feature-rich task manager that allows users to create, update, delete, and filter todos with real-time API synchronization and persistent data storage.
+
+🔹 **Features:** 
+✔ Add and delete tasks with API calls
+✔ Mark tasks as completed or active
+✔ Filter by All / Active / Completed
+✔ Full CRUD support with loading states
+✔ Real-time data persistence via REST API
+✔ Responsive and clean UI with React + TypeScript
+
+🔗 [Live Demo]([https://nadiiabulmak.github.io/react_todo-app-with-api/])
+
+
+### 🎮 2048 Game Project
+An interactive implementation of the classic 2048 puzzle game built using vanilla JavaScript. This project showcases the use of object-oriented programming, DOM manipulation, and user event handling to create a fully playable browser-based game.
 
 🔹 **Features:**  
-✔ Add, complete, and delete tasks  
-✔ Data persistence with **Local Storage**  
-✔ Modern and clean UI  
-✔ Responsive design for all devices  
+✔Responsive Game Board: A 4×4 grid that adapts to different screen sizes. 📱💻
+✔Keyboard Controls: Use arrow keys to slide and combine tiles. 🎮
+✔Game Logic: Tiles combine according to 2048 rules, with win/lose conditions. 🧠
+✔Dynamic Rendering: Smooth DOM updates and visual tile changes based on game state. 🔄
+✔Scoring System: Points accumulate as tiles merge. 🧾
+✔Game Restart Option: Start a new game anytime with the restart button. 🔁
 
-🔗 [Live Demo](https://nadiiabulmak.github.io/js_to_do_list_new/) | 📝 [Code & About](https://github.com/NadiiaBulmak/js_to_do_list_new)   
+🔗 [Live Demo]([https://nadiiabulmak.github.io/js_2048_game/])
 
 ### 👥 Employees Table  
 A dynamic table that allows users to **sort, add, and edit employee data** with form validation and notification feedback.  
@@ -40,17 +57,7 @@ A dynamic table that allows users to **sort, add, and edit employee data** with 
 ✔ Notification system for user actions  
 ✔ Fully responsive design  
 
-🔗 [Live Demo](https://nadiiabulmak.github.io/js_table_app/) | 📝 [Code & About](https://github.com/NadiiaBulmak/js_table_app)  
-
-### 🗆️ Lightbox Viewer  
-A gallery project that enables users to **view images in fullscreen** with smooth transitions.  
-
-🔹 **Features:**  
-✔ Lightbox view with a darkened background  
-✔ Smooth animations for transitions  
-✔ Responsive design for different devices  
-
-🔗 [Live Demo](https://nadiiabulmak.github.io/js_build_a_lightbox_viewer/) | 📝 [Code & About](https://github.com/NadiiaBulmak/js_build_a_lightbox_viewer)  
+🔗 [Live Demo](https://nadiiabulmak.github.io/js_table_app/)
 
 ### 🍞 Bakery Landing Page  
 A stylish and modern landing page for a **bakery business**.  
@@ -61,7 +68,7 @@ A stylish and modern landing page for a **bakery business**.
 ✔ Well-structured and engaging content  
 ✔ Fully responsive layout  
 
-🔗 [Live Demo](https://nadiiabulmak.github.io/Bakery_landing_project/) | 📝 [Code & About](https://github.com/NadiiaBulmak/Bakery_landing_project)  
+🔗 [Live Demo](https://nadiiabulmak.github.io/Bakery_landing_project/)
 
 
 ### 💻 Tech Company Landing Page  
@@ -73,7 +80,7 @@ A **modern and sleek landing page** designed for a tech company.
 ✔ Interactive elements and smooth animations  
 ✔ Fully responsive layout  
 
-🔗 [Live Demo](https://nadiiabulmak.github.io/Landing_for_Tech_Company/) | 📝 [Code & About](https://github.com/NadiiaBulmak/Landing_for_Tech_Company)  
+🔗 [Live Demo](https://nadiiabulmak.github.io/Landing_for_Tech_Company/)
 
 ---
   
