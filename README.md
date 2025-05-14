@@ -31,7 +31,7 @@ A feature-rich task manager that allows users to create, update, delete, and fil
 ✔ Real-time data persistence via REST API
 ✔ Responsive and clean UI with React + TypeScript
 
-🔗 [Live Demo]([https://nadiiabulmak.github.io/react_todo-app-with-api/])
+🔗 [Live Demo](https://nadiiabulmak.github.io/react_todo-app-with-api/)
 
 
 ### 🎮 2048 Game Project
@@ -45,7 +45,7 @@ An interactive implementation of the classic 2048 puzzle game built using vanill
 ✔Scoring System: Points accumulate as tiles merge. 🧾
 ✔Game Restart Option: Start a new game anytime with the restart button. 🔁
 
-🔗 [Live Demo]([https://nadiiabulmak.github.io/js_2048_game/])
+🔗 [Live Demo](https://nadiiabulmak.github.io/js_2048_game/)
 
 ### 👥 Employees Table  
 A dynamic table that allows users to **sort, add, and edit employee data** with form validation and notification feedback.  
