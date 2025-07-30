@@ -1,9 +1,8 @@
 # Hi there! I'm Nadia 👋  
 
-✨ **Fullstack Developer in training at Mate Academy.**  
-⚡ Passionate about mastering JavaScript, HTML/CSS, React, Typescript and building responsive projects.  
-🤩 Dedicated to landing a job and contributing to an amazing team.  
-🌱 Currently learning **React + Typescript**.  
+✨ **Fullstack Developer at Luminaflow.**  
+⚡ Passionate about mastering JavaScript, HTML/CSS, React, Typescript, Node.js.  
+🌱 Currently learning **Next.js**.  
 
 ## 🛠️ Skills  
 
