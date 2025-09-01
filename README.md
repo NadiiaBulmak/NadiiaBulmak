@@ -1,7 +1,7 @@
 # Hi there! I'm Nadia 👋  
 
-✨ **Fullstack Developer at Luminaflow.**  
-⚡ Passionate about mastering JavaScript, HTML/CSS, React, Typescript, Node.js.  
+✨ **Fullstack Developer with commercial experience**  
+⚡ Passionate about mastering JS/TS, React/Redux, Node.js.  
 🌱 Currently learning **Next.js**.  
 
 ## 🛠️ Skills  
