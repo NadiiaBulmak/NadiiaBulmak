@@ -30,36 +30,36 @@
 
 ### ➡️ VDI-Group
  — responsive corporate website with Node.js backend, contact form, performance optimization & SEO.
- 
+
 🔗 [Live Demo](https://vdigroup.com.ua/)
 
 
 ### ✅ React ToDo App with API
  — CRUD task manager with API sync and persistent data storage.
  
-🔗 [Live Demo](https://nadiiabulmak.github.io/react_todo-app-with-api/)
-🔗 [GitHub](https://github.com/NadiiaBulmak/react_todo-app-with-api)
+🔗 [Live Demo](https://nadiiabulmak.github.io/react_todo_app-complete_with_api/)
+🔗 [GitHub](https://github.com/NadiiaBulmak/react_todo_app-complete_with_api)
 
 
 ### 🎮 2048 Game
 – browser puzzle game in vanilla JS (OOP, DOM, event handling). 
 
-🔗 [Live Demo](https://nadiiabulmak.github.io/js_2048_game/)
-🔗 [GitHub](https://github.com/NadiiaBulmak/js_2048_game)
+🔗 [Live Demo](https://nadiiabulmak.github.io/js_game_2048/)
+🔗 [GitHub](https://github.com/NadiiaBulmak/js_game_2048)
 
 
 ### 🍞 Bakery Landing
 – responsive landing page using BEM, Sass, Flexbox, Grid, animations. 
 
-🔗 [Live Demo](https://nadiiabulmak.github.io/Bakery_landing_project/)
-🔗 [GitHub](https://github.com/NadiiaBulmak/Bakery_landing_project)
+🔗 [Live Demo](https://nadiiabulmak.github.io/landing_bakery/)
+🔗 [GitHub](https://github.com/NadiiaBulmak/landing_bakery)
 
 
 ### 💻 Tech Company Landing
 – modern corporate landing with clean UI (BEM, Sass, Grid, CSS animations). 
 
-🔗 [Live Demo](https://nadiiabulmak.github.io/Landing_for_Tech_Company/)
-🔗 [GitHub](https://github.com/NadiiaBulmak/Landing_for_Tech_Company)
+🔗 [Live Demo](https://nadiiabulmak.github.io/landing_tech-company/)
+🔗 [GitHub](https://github.com/NadiiaBulmak/landing_tech-company)
 
 ---
   
@@ -67,18 +67,3 @@
 - Email: nbulmak@gmail.com 
 - Telegram: [Nadiia Bulmak](https://t.me/bulmak_nadiia)  
 - LinkedIn: [Nadiia Bulmak](www.linkedin.com/in/nadiiabulmak)
-
-<!--
-**NadiiaBulmak/NadiiaBulmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
