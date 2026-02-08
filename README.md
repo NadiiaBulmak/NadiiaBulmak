@@ -1,7 +1,7 @@
 # Hi there! I'm Nadia 👋  
 
 ✨ **Fullstack Developer with commercial experience**  
-⚡ Passionate about mastering JS/TS, React/Redux, Node.js.  
+⚡ Passionate about mastering NestJs.  
 <!--
 🌱 Currently learning **Next.js**.  
 -->
