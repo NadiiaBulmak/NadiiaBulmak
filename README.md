@@ -2,9 +2,14 @@
 
 ✨ **Fullstack Developer with commercial experience**  
 ⚡ Passionate about mastering NestJs.  
-<!--
-🌱 Currently learning **Next.js**.  
--->
+
+#### 🚀 Latest Full-Stack Test Assignment
+
+**Quiz Builder** — a full-stack quiz building app  
+👉 https://github.com/NadiiaBulmak/quiz-builder
+
+**Tech stack:** React, Node.js, Express, PostgreSQL, React 19, Chakra UI, TanStack React Query, Axios
+
 
 ## 🛠️ Skills  
 
