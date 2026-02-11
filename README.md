@@ -2,6 +2,7 @@
 
 ✨ **Fullstack Developer with commercial experience**  
 ⚡ Passionate about mastering NestJs.  
+❤️ Currently working on this - https://github.com/NadiiaBulmak/nest_next_tailwind_flowgrow
 
 #### 🚀 Latest Full-Stack Test Assignment
 
