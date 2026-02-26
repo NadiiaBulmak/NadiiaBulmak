@@ -2,7 +2,7 @@
 
 ✨ **Fullstack Developer with commercial experience**  
 ⚡ Passionate about mastering NestJs and NextJs.  
-❤️ Currently working on this - https://github.com/NadiiaBulmak/nest_next_tailwind_flowgrow
+❤️ Currently working on this - https://github.com/NadiiaBulmak/nest_next_tailwind_flowgrow  
 ❤️ My new love is Threejs- demo https://theejs-3d-text-with-donuts.vercel.app/ 
 
 #### 🚀 Latest Full-Stack Test Assignment
