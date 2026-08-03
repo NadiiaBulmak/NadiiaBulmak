@@ -2,16 +2,11 @@
 
 ✨ **Fullstack Developer with commercial experience**  
 ⚡ Passionate about mastering NestJs and NextJs.  
-❤️ Currently working on this - https://github.com/NadiiaBulmak/nest_next_tailwind_flowgrow  
-❤️ My new love is Threejs- demo https://theejs-3d-text-with-donuts.vercel.app/ 
 
-#### 🚀 Latest Full-Stack Test Assignment
+### In progress:
+https://github.com/NadiiaBulmak/next_quiz-builder
 
-**Quiz Builder** — a full-stack quiz building app  
-👉 https://github.com/NadiiaBulmak/quiz-builder
-
-**Tech stack:** React, Node.js, Express, PostgreSQL, React 19, Chakra UI, TanStack React Query, Axios
-
+https://github.com/NadiiaBulmak/nest_next_tailwind_flowgrow  
 
 ## 🛠️ Skills  
 
@@ -35,12 +30,6 @@
 
 ## 🚀 Projects Portfolio  
 
-### ➡️ VDI-Group
- — responsive corporate website with Node.js backend, contact form, performance optimization & SEO.
-
-🔗 [Live Demo](https://vdigroup.com.ua/)
-
-
 ### ✅ React ToDo App with API
  — CRUD task manager with API sync and persistent data storage.
  
@@ -54,23 +43,8 @@
 🔗 [Live Demo](https://nadiiabulmak.github.io/js_game_2048/)
 🔗 [GitHub](https://github.com/NadiiaBulmak/js_game_2048)
 
-
-### 🍞 Bakery Landing
-– responsive landing page using BEM, Sass, Flexbox, Grid, animations. 
-
-🔗 [Live Demo](https://nadiiabulmak.github.io/landing_bakery/)
-🔗 [GitHub](https://github.com/NadiiaBulmak/landing_bakery)
-
-
-### 💻 Tech Company Landing
-– modern corporate landing with clean UI (BEM, Sass, Grid, CSS animations). 
-
-🔗 [Live Demo](https://nadiiabulmak.github.io/landing_tech-company/)
-🔗 [GitHub](https://github.com/NadiiaBulmak/landing_tech-company)
-
----
   
 ### 📫 Contact Me:
 - Email: nbulmak@gmail.com 
 - Telegram: [Nadiia Bulmak](https://t.me/bulmak_nadiia)  
-- LinkedIn: [Nadiia Bulmak](www.linkedin.com/in/nadiiabulmak)
+- LinkedIn: [Nadiia Bulmak](https://www.linkedin.com/in/nadiiabulmak/)
