@@ -8,8 +8,6 @@ My strongest areas are **React/Next.js frontend development, Node.js/NestJS back
 
 I enjoy working across the stack — from building responsive interfaces and reusable components to designing backend logic, integrating APIs, working with relational databases, and automating repetitive workflows.
 
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -50,7 +48,6 @@ I enjoy working across the stack — from building responsive interfaces and reu
 ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js)
 ![Canvas](https://img.shields.io/badge/Canvas_API-000?style=flat-square)
 
----
 
 ## ⭐ Featured Projects
 
@@ -81,7 +78,6 @@ A production-style full-stack application where authenticated users can create, 
 
 🔗 [Repository](https://github.com/NadiiaBulmak/next-quiz-builder)
 
----
 
 ### VDI-Group
 
@@ -104,7 +100,6 @@ Built a responsive corporate website with a Node.js/Express backend and external
 
 🔗 [Real world link](https://vdigroup.com.ua/)
 
----
 
 ## 💼 Experience
 
@@ -115,7 +110,6 @@ TypeScript • JavaScript • Canvas API • Three.js • Tween.js • Web Audio
 
 Building interactive 2D/3D browser experiences and playable ads with a strong focus on performance, cross-platform compatibility, and responsive interactions.
 
----
 
 **Full Stack Developer — Omisoft**  
 `Sep 2025 – Feb 2026`
@@ -124,7 +118,6 @@ React • Next.js • TypeScript • Node.js • NestJS • Prisma • TypeORM �
 
 Developed React/Next.js applications, REST APIs, backend business logic, reusable UI components, and automation workflows.
 
----
 
 **Full Stack Developer — Luminaflow**  
 `Sep 2024 – Sep 2025`
@@ -133,7 +126,6 @@ React • Redux • Node.js • REST • GraphQL • Webhooks • Make.com • n
 
 Developed full-stack features, third-party integrations, automation workflows, and AI-powered functionality.
 
----
 
 ## 📚 Currently Focused On
 
