@@ -76,7 +76,7 @@ A production-style full-stack application where authenticated users can create, 
 
 🔗 [Live Demo](https://next-quiz-builder.vercel.app/)
 
-🔗 [Repository](https://github.com/NadiiaBulmak/next-quiz-builder)
+🔗 [Repository](https://github.com/NadiiaBulmak/next_quiz-builder)
 
 
 ### VDI-Group
