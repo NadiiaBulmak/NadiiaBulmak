@@ -1,50 +1,165 @@
-# Hi there! I'm Nadia 👋  
+# Hi, I'm Nadiia 👋
 
-✨ **Fullstack Developer with commercial experience**  
-⚡ Passionate about mastering NestJs and NextJs.  
+### Full Stack JavaScript Developer | React • Next.js • Node.js • NestJS • TypeScript
 
-### In progress:
-https://github.com/NadiiaBulmak/next_quiz-builder
+I’m a Full Stack JavaScript Developer with commercial experience building and maintaining production web applications, backend services, APIs, and interactive browser experiences.
 
-https://github.com/NadiiaBulmak/nest_next_tailwind_flowgrow  
+My strongest areas are **React/Next.js frontend development, Node.js/NestJS backend development, and API-driven applications**.
 
-## 🛠️ Skills  
+I enjoy working across the stack — from building responsive interfaces and reusable components to designing backend logic, integrating APIs, working with relational databases, and automating repetitive workflows.
 
-![HTML](https://img.shields.io/badge/HTML5-Flexbox%2C%20Grid-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-Adaptive%20Design%2C%20Animations-blue?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-(SCSS)%20Preprocessor-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![BEM](https://img.shields.io/badge/BEM-CSS%20Methodology-green?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B%2C%20DOM-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Type%20Safety%2C%20Interfaces-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-Components%2C%20Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux--Toolkit-State%20Management-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Backend%20Development-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-Integration-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database%20Queries-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Basic%20Understanding-9cf?style=for-the-badge&logo=abstract&logoColor=black)
-![Agile](https://img.shields.io/badge/Agile-Scrum%2C%20Kanban-2496ED?style=for-the-badge&logo=agile&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-Workspace-black?style=for-the-badge&logo=notion&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-Task%20Management-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-Design%20Tool-blueviolet?style=for-the-badge&logo=figma&logoColor=white)
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=postgresql)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-000?style=flat-square&logo=redux)
+![Zustand](https://img.shields.io/badge/Zustand-000?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat-square&logo=tailwindcss)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=flat-square&logo=nestjs)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
+![REST API](https://img.shields.io/badge/REST_API-000?style=flat-square)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma)
+![TypeORM](https://img.shields.io/badge/TypeORM-000?style=flat-square&logo=typeorm)
+
+### Automation & Integrations
+
+![n8n](https://img.shields.io/badge/n8n-000?style=flat-square&logo=n8n)
+![Make](https://img.shields.io/badge/Make-000?style=flat-square)
+![Zapier](https://img.shields.io/badge/Zapier-000?style=flat-square&logo=zapier)
+
+### Interactive Web
+
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js)
+![Canvas](https://img.shields.io/badge/Canvas_API-000?style=flat-square)
+
+---
+
+## ⭐ Featured Projects
+
+### QuizFlow
+
+**Full-stack quiz creation and analytics platform**
+
+A production-style full-stack application where authenticated users can create, manage, publish, and share quizzes, while participants can complete public quizzes without an account.
+
+**Highlights:**
+
+- JWT authentication with HTTP-only cookies
+- Google OAuth 2.0
+- Protected routes and ownership-based authorization
+- Quiz CRUD and publication workflow
+- PostgreSQL relational data model
+- Prisma ORM
+- Server Actions and Route Handlers
+- Zod validation
+- Server-side score calculation
+- Result persistence and analytics
+- Search, filtering, sorting, and pagination
+- Responsive desktop/mobile UI
+
+**Tech:** Next.js • React • TypeScript • PostgreSQL • Prisma • Tailwind CSS • Zod
+
+🔗 [Live Demo](https://next-quiz-builder.vercel.app/)
+
+🔗 [Repository](https://github.com/NadiiaBulmak/next-quiz-builder)
+
+---
+
+### VDI-Group
+
+**Responsive corporate web application**
+
+Built a responsive corporate website with a Node.js/Express backend and external service integrations.
+
+**Highlights:**
+
+- Node.js / Express backend
+- Contact form processing
+- Email notifications
+- Google Sheets API integration
+- Responsive UI
+- Performance optimization
+- Technical SEO
+
+**Tech:** JavaScript • Node.js • Express.js • Google Sheets API
 
 
-## 🚀 Projects Portfolio  
+🔗 [Real world link](https://vdigroup.com.ua/)
 
-### ✅ React ToDo App with API
- — CRUD task manager with API sync and persistent data storage.
- 
-🔗 [Live Demo](https://nadiiabulmak.github.io/react_todo_app-complete_with_api/)
-🔗 [GitHub](https://github.com/NadiiaBulmak/react_todo_app-complete_with_api)
+---
 
+## 💼 Experience
 
-### 🎮 2048 Game
-– browser puzzle game in vanilla JS (OOP, DOM, event handling). 
+**Playable Ads Developer — 24 Play LLC**  
+`Mar 2026 – Present`
 
-🔗 [Live Demo](https://nadiiabulmak.github.io/js_game_2048/)
-🔗 [GitHub](https://github.com/NadiiaBulmak/js_game_2048)
+TypeScript • JavaScript • Canvas API • Three.js • Tween.js • Web Audio APIs
 
-  
-### 📫 Contact Me:
-- Email: nbulmak@gmail.com 
-- Telegram: [Nadiia Bulmak](https://t.me/bulmak_nadiia)  
-- LinkedIn: [Nadiia Bulmak](https://www.linkedin.com/in/nadiiabulmak/)
+Building interactive 2D/3D browser experiences and playable ads with a strong focus on performance, cross-platform compatibility, and responsive interactions.
+
+---
+
+**Full Stack Developer — Omisoft**  
+`Sep 2025 – Feb 2026`
+
+React • Next.js • TypeScript • Node.js • NestJS • Prisma • TypeORM • Zustand • Tailwind CSS • n8n
+
+Developed React/Next.js applications, REST APIs, backend business logic, reusable UI components, and automation workflows.
+
+---
+
+**Full Stack Developer — Luminaflow**  
+`Sep 2024 – Sep 2025`
+
+React • Redux • Node.js • REST • GraphQL • Webhooks • Make.com • n8n • Zapier • OpenAI
+
+Developed full-stack features, third-party integrations, automation workflows, and AI-powered functionality.
+
+---
+
+## 📚 Currently Focused On
+
+- Advanced Next.js architecture
+- Backend development with NestJS
+- PostgreSQL and database design
+- API architecture
+- Performance optimization
+- Workflow automation
+- AI integrations
+- Building production-ready full-stack applications
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nadiiabulmak/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/NadiiaBulmak)
+
+[![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail)](mailto:nbulmak@gmail.com)
+
+---
+
+### ⚡ A little more about me
+
+Before moving into software development, I worked in healthcare and developed strong experience in responsibility, problem-solving, communication, and process management.
+
+Now I combine that background with software engineering to build practical, reliable, and user-focused web applications.
