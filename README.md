@@ -1,12 +1,10 @@
 # Hi, I'm Nadiia 👋
 
-### Full Stack JavaScript Developer | React • Next.js • Node.js • NestJS • TypeScript
+### Full Stack JavaScript Developer | React • Next.js • Node.js • NestJS • TypeScript • PostgreSQL • AI/RAG • Automation
 
-I’m a Full Stack JavaScript Developer with commercial experience building and maintaining production web applications, backend services, APIs, and interactive browser experiences.
+Full Stack JavaScript Developer with 2+ years of commercial experience building web applications, backend services, API integrations, automation workflows, and AI-powered solutions.
 
-My strongest areas are **React/Next.js frontend development, Node.js/NestJS backend development, and API-driven applications**.
-
-I enjoy working across the stack — from building responsive interfaces and reusable components to designing backend logic, integrating APIs, working with relational databases, and automating repetitive workflows.
+My core stack includes TypeScript, JavaScript, React, Next.js, Node.js, NestJS, PostgreSQL, Prisma, TypeORM, REST APIs, Webhooks, and third-party integrations. I also work with LLM APIs, embeddings, vector search, and RAG systems, combining AI capabilities with structured backend architecture and business workflows.
 
 ## 🛠️ Tech Stack
 
@@ -79,26 +77,29 @@ A production-style full-stack application where authenticated users can create, 
 🔗 [Repository](https://github.com/NadiiaBulmak/next_quiz-builder)
 
 
-### VDI-Group
+### CBT Support Agent
 
-**Responsive corporate web application**
+**AI support agent for CBT psychoeducation and guided self-reflection**
 
-Built a responsive corporate website with a Node.js/Express backend and external service integrations.
+A backend-focused AI agent that provides grounded CBT psychoeducation and guided self-reflection using LLM planning, deterministic safety guardrails, tool calling, and a PostgreSQL/pgvector knowledge base.
 
 **Highlights:**
 
-- Node.js / Express backend
-- Contact form processing
-- Email notifications
-- Google Sheets API integration
-- Responsive UI
-- Performance optimization
-- Technical SEO
+* Multi-step AI agent orchestration with a custom NestJS workflow
+* Gemini-powered planning and answer generation
+* Tool calling with input validation, safety checks, and knowledge-base search
+* PostgreSQL + pgvector semantic search
+* RAG-based grounded responses with source attribution
+* Deterministic safety and out-of-scope guardrails before LLM execution
+* Answer validation with retry and fallback mechanisms
+* Structured JSON response contract with intent, confidence, sources, and decision summary
+* Agent execution and tool-call logging for observability
+* Unit tests and HTTP-level end-to-end tests
+* Swagger API documentation
 
-**Tech:** JavaScript • Node.js • Express.js • Google Sheets API
+**Tech:** NestJS • TypeScript • PostgreSQL • pgvector • Prisma • Gemini API • REST • Vitest • Supertest • Docker
 
-
-🔗 [Real world link](https://vdigroup.com.ua/)
+🔗 [Repository](https://github.com/NadiiaBulmak/support-agent)
 
 
 ## 💼 Experience
