@@ -2,50 +2,7 @@
 
 ### Full Stack JavaScript Developer | React • Next.js • Node.js • NestJS • TypeScript • PostgreSQL • AI/RAG • Automation
 
-Full Stack JavaScript Developer with 2+ years of commercial experience building web applications, backend services, API integrations, automation workflows, and AI-powered solutions.
-
-My core stack includes TypeScript, JavaScript, React, Next.js, Node.js, NestJS, PostgreSQL, Prisma, TypeORM, REST APIs, Webhooks, and third-party integrations. I also work with LLM APIs, embeddings, vector search, and RAG systems, combining AI capabilities with structured backend architecture and business workflows.
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=postgresql)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![Redux](https://img.shields.io/badge/Redux-000?style=flat-square&logo=redux)
-![Zustand](https://img.shields.io/badge/Zustand-000?style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat-square&logo=tailwindcss)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-000?style=flat-square&logo=nestjs)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
-![REST API](https://img.shields.io/badge/REST_API-000?style=flat-square)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma)
-![TypeORM](https://img.shields.io/badge/TypeORM-000?style=flat-square&logo=typeorm)
-
-### Automation & Integrations
-
-![n8n](https://img.shields.io/badge/n8n-000?style=flat-square&logo=n8n)
-![Make](https://img.shields.io/badge/Make-000?style=flat-square)
-![Zapier](https://img.shields.io/badge/Zapier-000?style=flat-square&logo=zapier)
-
-### Interactive Web
-
-![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js)
-![Canvas](https://img.shields.io/badge/Canvas_API-000?style=flat-square)
-
+Full Stack JavaScript Developer with 2+ years of commercial experience building web applications, backend services, integrations, and business automation workflows. Experienced in delivering end-to-end solutions across frontend, backend, databases, APIs, and third-party systems.
 
 ## ⭐ Featured Projects
 
@@ -101,45 +58,6 @@ A backend-focused AI agent that provides grounded CBT psychoeducation and guided
 
 🔗 [Repository](https://github.com/NadiiaBulmak/support-agent)
 
-
-## 💼 Experience
-
-**Playable Ads Developer — 24 Play LLC**  
-`Mar 2026 – Present`
-
-TypeScript • JavaScript • Canvas API • Three.js • Tween.js • Web Audio APIs
-
-Building interactive 2D/3D browser experiences and playable ads with a strong focus on performance, cross-platform compatibility, and responsive interactions.
-
-
-**Full Stack Developer — Omisoft**  
-`Sep 2025 – Feb 2026`
-
-React • Next.js • TypeScript • Node.js • NestJS • Prisma • TypeORM • Zustand • Tailwind CSS • n8n
-
-Developed React/Next.js applications, REST APIs, backend business logic, reusable UI components, and automation workflows.
-
-
-**Full Stack Developer — Luminaflow**  
-`Sep 2024 – Sep 2025`
-
-React • Redux • Node.js • REST • GraphQL • Webhooks • Make.com • n8n • Zapier • OpenAI
-
-Developed full-stack features, third-party integrations, automation workflows, and AI-powered functionality.
-
-
-## 📚 Currently Focused On
-
-- Advanced Next.js architecture
-- Backend development with NestJS
-- PostgreSQL and database design
-- API architecture
-- Performance optimization
-- Workflow automation
-- AI integrations
-- Building production-ready full-stack applications
-
----
 
 ## 📫 Let's Connect
 
